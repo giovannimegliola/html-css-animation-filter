@@ -56,3 +56,9 @@
     border-radius: 40px;
     transform: scale(1.5);
 }
+
+
+.ex-10-icon {
+    animation: spin 2s linear infinite;
+}
+
