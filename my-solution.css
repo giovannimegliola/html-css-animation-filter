@@ -35,3 +35,15 @@
 .ex-5-square:active {
     transform: scale(0.5);
 }
+
+.ex-6-img:hover {
+    filter: grayscale(1);
+}
+
+.ex-8-img {
+    transition: 3s;
+}
+.ex-8-img:hover {
+    filter: grayscale(0.5) sepia(0.8);
+    border-radius: 30px;
+}
